@@ -1,0 +1,35 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+WARNING - 2014-05-31 11:22:44 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:18 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:19 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:22 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:23 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:29 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:53:32 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:55:56 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:56:20 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 11:56:22 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:03:09 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:04:56 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:01 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:06 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:34 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:34 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:36 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:54 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:55 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:05:55 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:11:52 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 12:12:47 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:04 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:09 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:13 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:13 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:18 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:18 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:22 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 13:06:27 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 21:14:37 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 21:15:15 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
+WARNING - 2014-05-31 21:17:30 --> Fuel\Core\Fuel::init - The configured locale lv_LV is not installed on your system.
