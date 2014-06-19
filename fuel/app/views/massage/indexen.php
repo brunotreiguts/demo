@@ -1,1 +1,0 @@
-TEKSTS ANGĻU VALODĀ.
